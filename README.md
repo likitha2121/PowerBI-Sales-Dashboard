@@ -20,7 +20,7 @@ This dashboard analyzes sales performance, customer behavior, and regional insig
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard](Dashboard Page 1.png)
+Dashboard Page 1.png
 
 ### Page 2
-![Dashboard](Dashboard Page 2.png)
+Dashboard Page 2.png
