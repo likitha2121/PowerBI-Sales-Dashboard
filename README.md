@@ -4,8 +4,10 @@
 This dashboard analyzes sales performance, customer behavior, and regional insights using Power BI.
 
 ## Files
-- Dashboard.pbix
-- Dataset.csv
+- Sales-Dashboard.pbix
+- Sales-Dataset.csv
+- Dashboard Page 1.png
+- Dashbboard Page 2.png
 
 ## Features
 - KPI Cards
